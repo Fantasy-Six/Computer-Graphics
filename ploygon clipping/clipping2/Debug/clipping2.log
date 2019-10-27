@@ -1,0 +1,20 @@
+﻿  源.cpp
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(113,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(118,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(119,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(128,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(129,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(140,11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(148,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(149,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(161,11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(169,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(170,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(204,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(298,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(299,28): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(299,20): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(331,35): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(331,23): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\ploygon clipping\clipping2\源.cpp(378,34): warning C4326: “main”的返回类型应为“int”而非“void”
+  clipping2.vcxproj -> C:\Users\Fantasy-Six\source\repos\ploygon clipping\Debug\clipping2.exe
