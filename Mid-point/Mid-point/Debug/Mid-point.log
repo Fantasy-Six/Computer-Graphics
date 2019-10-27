@@ -1,0 +1,8 @@
+﻿  Mid-point.cpp
+C:\Users\Fantasy-Six\source\repos\Mid-point\Mid-point\Mid-point.cpp(21,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Mid-point\Mid-point\Mid-point.cpp(7,18): warning C4101: “c”: 未引用的局部变量
+C:\Users\Fantasy-Six\source\repos\Mid-point\Mid-point\Mid-point.cpp(113,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Mid-point\Mid-point\Mid-point.cpp(113,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Mid-point\Mid-point\Mid-point.cpp(113,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Mid-point\Mid-point\Mid-point.cpp(113,9): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Mid-point.vcxproj -> C:\Users\Fantasy-Six\source\repos\Mid-point\Debug\Mid-point.exe
