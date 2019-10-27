@@ -1,0 +1,19 @@
+﻿  源.cpp
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(66,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(70,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(75,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(81,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(104,28): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(104,22): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(104,16): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(104,10): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(116,30): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(116,15): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(117,10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(117,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(125,30): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(125,15): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(127,10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\clipping\clipping\源.cpp(127,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  clipping.vcxproj -> C:\Users\Fantasy-Six\source\repos\clipping\Debug\clipping.exe
