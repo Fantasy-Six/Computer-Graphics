@@ -1,0 +1,21 @@
+﻿  源.cpp
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(95,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(97,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(108,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(110,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(150,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(151,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(177,10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(178,10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(185,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(186,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(189,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(190,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(193,17): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(201,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(202,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(204,31): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(213,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(227,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\scan\源.cpp(243,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  scan.vcxproj -> C:\Users\Fantasy-Six\source\repos\Scan line polygon filling\Debug\scan.exe
